@@ -67,7 +67,7 @@ class JokeList extends React.Component {
       return (
         <div className="JokeList-spinner">
           <i className="far fa-5x fa-laugh fa-spin" />
-          <h1 className="JokeList-title">Loading.....</h1>
+          <h1 className="JokeList-title">Loading...</h1>
         </div>
       );
     }
